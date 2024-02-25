@@ -1,0 +1,4 @@
+I had no issues loading the solution. I like that you are using that Split method with the tab delimeter to split up your info.
+I imagine for a project this small it is probably the most efficient way to build your database, just using strings.
+I ended up going in a much more annoying route, where I created my own mdf file in MySQL and used that.
+For all of the extra work it took to get that set up, it ended up not benefiting me in the slightest. Won't do that again.
