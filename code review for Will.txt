@@ -1,0 +1,27 @@
+Code review for Will:
+Anna Stefanacci
+
+Code Compilation and Warnings:
+
+- There are no errors in your code. 
+
+Readability and Documentation:
+
+- I liked that you included the comments at the top as a way of explaining your thought process. Helped me to understand what your goal was for the program.  
+
+Repetitive Code and Dead Code:
+
+- There are no instances of dead code.
+- There was repetitiveness, but I will explain more later. 
+
+Software Defects and Testing:
+
+- As this was not a "runable" program, I was not able to officially test it, I did not find any errors in your work. 
+
+Appropriateness of Framework and Code Usage:
+
+- This program met the requirements of the assignment. 
+
+Constructive Feedback:
+
+- Your program is very similar to the other person I choose to do a code review for. I personally used a IQueryable (LINQ), to query my database. Nothing is wrong with either way, but I found as I did with the other person that it can be redunant. If you choose NOT to use IQueryable, I would opt to use for a class rather than list out all your data, and a method to get that data. As that way the library is doing it for you rather than you doing it for the library (if that makes sense). Althought your "but that's good enough" made me laugh so thank you. :)
