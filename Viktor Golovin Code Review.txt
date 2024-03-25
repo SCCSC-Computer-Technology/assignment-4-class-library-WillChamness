@@ -1,0 +1,2 @@
+The library looks like it would run well and be beneficial for the program at hand, therefor meeting the requirments for the assignment. I liked the method you used to split up the information and it's an interesting concept. Overall good code and good library could definitely be used to add efficiency in a program and eliminate reduncancy. 
+
