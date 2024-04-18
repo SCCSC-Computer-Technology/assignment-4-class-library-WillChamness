@@ -1,0 +1,6 @@
+-Straightforward
+-clear
+-concise
+I like the way you wrote the StateNames() Method.
+
+could improve on error handling
